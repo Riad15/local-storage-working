@@ -1,0 +1,14 @@
+.person{
+    background-color: cornsilk;
+    border: solid black 3px;
+    padding: 5px;
+    margin: 10px 10px;
+    border-radius: 15px;
+}
+.btn{
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: cadetblue;
+    font-size: larger;
+    border-radius: 10px;
+}

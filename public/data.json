@@ -1,0 +1,86 @@
+[
+    {
+        "id": "6239588c0984efdbb8c35259",
+        "balance": "$1,551.04",
+        "age": 28,
+        "eyeColor": "green",
+        "name": "Lori Wright",
+        "gender": "female",
+        "company": "EXOSPACE",
+        "email": "loriwright@exospace.com",
+        "phone": "+1 (953) 570-2971",
+        "address": "255 Highlawn Avenue, Trona, American Samoa, 9350"
+    },
+    {
+        "id": "6239588c08845ac689438cbf",
+        "balance": "$1,269.39",
+        "age": 27,
+        "eyeColor": "green",
+        "name": "Stein Davis",
+        "gender": "male",
+        "company": "FUELWORKS",
+        "email": "steindavis@fuelworks.com",
+        "phone": "+1 (857) 505-3173",
+        "address": "576 Clymer Street, Silkworth, California, 5456"
+    },
+    {
+        "id": "6239588cebb62f82e37f54bc",
+        "balance": "$3,629.86",
+        "age": 39,
+        "eyeColor": "blue",
+        "name": "Hughes Holcomb",
+        "gender": "male",
+        "company": "OLYMPIX",
+        "email": "hughesholcomb@olympix.com",
+        "phone": "+1 (922) 590-3541",
+        "address": "848 Loring Avenue, Crenshaw, Idaho, 2020"
+    },
+    {
+        "id": "6239588cd6b4158159850774",
+        "balance": "$2,537.79",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Cash Gray",
+        "gender": "male",
+        "company": "INVENTURE",
+        "email": "cashgray@inventure.com",
+        "phone": "+1 (910) 453-3912",
+        "address": "488 School Lane, Venice, South Dakota, 129"
+    },
+    {
+        "id": "6239588c83c61b9a787a1061",
+        "balance": "$1,907.34",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Celeste Barrett",
+        "gender": "female",
+        "company": "BARKARAMA",
+        "email": "celestebarrett@barkarama.com",
+        "phone": "+1 (855) 565-3551",
+        "address": "837 Williams Court, Riverton, Oklahoma, 1073"
+    },
+    {
+        "id": "6239588c4617400bab1238d5",
+        "balance": "$3,989.71",
+        "age": 40,
+        "eyeColor": "brown",
+        "name": "Burch Ramos",
+        "gender": "male",
+        "company": "CYTREK",
+        "email": "burchramos@cytrek.com",
+        "phone": "+1 (981) 583-3959",
+        "address": "823 Haring Street, Urie, Montana, 1939"
+    },
+    {
+        "id": "6239588c7d9592626c320098",
+        "balance": "$2,676.51",
+        "age": 31,
+        "eyeColor": "brown",
+        "name": "Elisa Mcintyre",
+        "gender": "female",
+        "company": "GRUPOLI",
+        "email": "elisamcintyre@grupoli.com",
+        "phone": "+1 (931) 583-3580",
+        "address": "308 Schenck Court, Dunbar, Alaska, 5221"
+    }
+]
